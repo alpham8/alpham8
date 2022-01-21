@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alpham8
+- 👋 Hi, I’m @alpham8, a german software develop since 2012
 - 👀 I’m interested in everything with tech and music stuff
 - 🌱 I’m currently learning audio programming stuff, which differs a lot from data processing
 - 📫 You can reach me here or via mail
